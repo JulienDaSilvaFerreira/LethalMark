@@ -11,13 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LethalCompanyTemplate")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LethalMark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A template for Lethal Company")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2c4fc187b3353f7d5b1b55d1b3070e86b82e140")]
-[assembly: System.Reflection.AssemblyProductAttribute("LethalCompanyTemplate")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LethalCompanyTemplate")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bca278c8ff5c32296310b55ce9ee7060c0e02d2")]
+[assembly: System.Reflection.AssemblyProductAttribute("LethalMark")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LethalMark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
